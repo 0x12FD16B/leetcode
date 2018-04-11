@@ -6,4 +6,4 @@ This Repository is created for logging a trip in [LeetCode](https://leetcode.com
 
  | # | Title |  Solution | Difficulty |
  |---|-------|-----------|------------|
- |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)|./algorithms/src/main/java/cn/antswl/leetcode/algorithms/subdomainVisitCount/Solution.java| Easy|
+ |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)|[Java](./algorithms/src/main/java/cn/antswl/leetcode/algorithms/subdomainVisitCount/Solution.java)| Easy|

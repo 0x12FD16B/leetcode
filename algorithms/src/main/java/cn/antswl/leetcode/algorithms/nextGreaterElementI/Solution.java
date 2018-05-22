@@ -10,7 +10,7 @@ import java.util.Stack;
  * problem source: https://leetcode.com/problems/next-greater-element-i/description/
  *
  * @author david-liu
- * @date 5/21/18
+ * @date May 21, 2018
  */
 public class Solution {
 

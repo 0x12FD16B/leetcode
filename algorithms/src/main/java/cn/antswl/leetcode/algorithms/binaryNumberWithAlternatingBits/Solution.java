@@ -6,7 +6,7 @@ package cn.antswl.leetcode.algorithms.binaryNumberWithAlternatingBits;
  * problem source: https://leetcode.com/problems/binary-number-with-alternating-bits/description/
  *
  * @author david-liu
- * @date May, 22, 2018
+ * @date May 22, 2018
  */
 public class Solution {
 

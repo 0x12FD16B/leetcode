@@ -3,7 +3,7 @@ package cn.antswl.leetcode.algorithms.missingNumber;
 /**
  * Missing Number
  *
- * problem source: https://leetcode.com/problems/missing-number/solution/
+ * problem source: https://leetcode.com/problems/missing-number/description/
  *
  * @author david-liu
  * @date May 24, 2018

@@ -6,6 +6,7 @@ This Repository is created for logging a trip in [LeetCode](https://leetcode.com
 
  | # | Title |  Solution | Difficulty |
  |---|-------|-----------|------------|
+ |136|[Single Number](https://leetcode.com/problems/single-number/solution/)|[Java](./algorithms/src/main/java/cn/antswl/leetcode/algorithms/singleNumber/Solution.java)
  |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)|[Java](./algorithms/src/main/java/cn/antswl/leetcode/algorithms/reverseBits/Solution.java)| Easy |
  |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)|[Java](./algorithms/src/main/java/cn/antswl/leetcode/algorithms/numberOf1Bits/Solution.java)| Easy |
  |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)|[Java](./algorithms/src/main/java/cn/antswl/leetcode/algorithms/sumOfTwoIntegers/Solution.java)| Easy |

@@ -19,5 +19,6 @@ This Repository is created for logging a trip in [LeetCode](https://leetcode.com
  |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)|[Java](./algorithms/src/main/java/cn/antswl/leetcode/algorithms/binaryNumberWithAlternatingBits/Solution.java) | Easy |
  |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)|[Java](./algorithms/src/main/java/cn/antswl/leetcode/algorithms/toeplitzMatrix/Solution.java) | Easy |
  |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)|[Java](./algorithms/src/main/java/cn/antswl/leetcode/algorithms/subdomainVisitCount/Solution.java)| Easy |
- |824|[Goat Latin](https://leetcode.com/problems/goat-latin/description/)|[Java](./algorithms/src/main/java/cn/antswl/leetcode/algorithms/goatLatin/Solution.java)|Easy|
+ |817|[Linked List Components](https://leetcode.com/problems/linked-list-components/description/)|[Java](./algorithms/src/main/java/cn/antswl/leetcode/algorithms/linkedListComponents/Solution.java)| Easy |
+ |824|[Goat Latin](https://leetcode.com/problems/goat-latin/description/)|[Java](./algorithms/src/main/java/cn/antswl/leetcode/algorithms/goatLatin/Solution.java)|Medium|
  |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)|[Java](.//algorithms/src/main/java/cn/antswl/leetcode/algorithms/flippingAnImage/Solution.java) | Easy |

@@ -1,5 +1,9 @@
 # LeetCode Trip
 
+Build Status: [![Build Status](https://travis-ci.org/0x12FD16B/leetcode.svg?branch=master)](https://travis-ci.org/0x12FD16B/leetcode)
+
+Code Coverage: [![codecov](https://codecov.io/gh/0x12FD16B/leetcode/branch/master/graph/badge.svg)](https://codecov.io/gh/0x12FD16B/leetcode)
+
 This Repository is created for logging a trip in [LeetCode](https://leetcode.com/).
 
 ## Algorithm

@@ -1,57 +1,77 @@
 package cn.davidliu.leetcode.algorithms.zigZagConversion;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * ZigZag Conversion
- *
+ * <p>
  * problem source: https://leetcode.com/problems/zigzag-conversion/description/
  *
  * @author david-liu
  * @date May 25, 2018
  */
 public class Solution {
-    public String convert(String s, int numRows) {
-        if (s.isEmpty() || s.length() == 1 || numRows == 1) {
-            return s;
+    // 遍历 s 中每个字符, 输出字符到指定的行, 使用布尔变量控制纵向输出的方向
+    // 时间复杂度: O(N), N = s.length()
+    // 空间复杂度: O(N)
+    public String convert_method1(String s, int numRows) {
+        if (numRows == 1) return s;
+
+        boolean downForward = true;
+        char[] chs = s.toCharArray();
+        StringBuilder[] container = new StringBuilder[numRows];
+
+        for (int i = 0; i < numRows; i++) {
+            container[i] = new StringBuilder();
         }
-        List<List<Character>> lines = new ArrayList<List<Character>>() {
-            {
-                for (int i = 0; i < numRows; i++) {
-                    add(new ArrayList<>());
-                }
+
+        int containerIdx = 0;
+        for (int i = 0; i < s.length(); i++) {
+            container[containerIdx].append(chs[i]);
+            if (containerIdx == numRows - 1) {
+                downForward = false;
             }
-        };
+            if (containerIdx == 0) {
+                downForward = true;
+            }
+            containerIdx += downForward ? 1 : -1;
+        }
+
+        StringBuilder result = new StringBuilder();
+        for (StringBuilder builder : container) {
+            result.append(builder.toString());
+        }
+
+        return result.toString();
+    }
+
+    // 遍历 s 中每个字符, 输出字符到指定的行, 使用布尔变量控制纵向输出的方向
+    // 时间复杂度: O(N), N = s.length()
+    // 空间复杂度: O(N)
+    public String convert_method2(String s, int numRows) {
+        if (numRows == 1) return s;
+
         char[] chars = s.toCharArray();
-        boolean asc = true;
-        int x = 0, y = 0;
-        for (char ch : chars) {
-            List<Character> line = lines.get(y);
-            if (x > 0) {
-                for (int i = line.size(); i < x; i++) {
-                    line.add(' ');
-                }
+        StringBuilder[] builders = new StringBuilder[numRows];
+        for (int i = 0; i < numRows; i++) {
+            builders[i] = new StringBuilder();
+        }
+
+
+        for (int i = 0; i < chars.length; ) {
+            for (int idx = 0; idx < numRows && i < chars.length; idx++) {
+                builders[idx].append(chars[i++]);
             }
-            line.add(ch);
-            if (asc) {
-                y = y + 1;
-            } else {
-                x = x + 1;
-                y = y - 1;
-            }
-            if (y == numRows - 1 || y == 0) {
-                asc = !asc;
+
+            for (int idx = numRows - 2; idx > 0 && i < chars.length; idx--) {
+                builders[idx].append(chars[i++]);
             }
         }
-        StringBuilder sb = new StringBuilder();
-        for (List<Character> line : lines) {
-            for (Character ch : line) {
-                if (ch != ' ') {
-                    sb.append(ch);
-                }
-            }
+
+        StringBuilder result = new StringBuilder();
+
+        for (StringBuilder builder : builders) {
+            result.append(builder.toString());
         }
-        return sb.toString();
+
+        return result.toString();
     }
 }

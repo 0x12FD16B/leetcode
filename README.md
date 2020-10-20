@@ -13,6 +13,7 @@ This Repository is created for logging a trip in [LeetCode](https://leetcode.com
  |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Java](./leetcode-algorithm/src/main/java/cn/davidliu/leetcode/algorithms/zigZagConversion/Solution.java)| Medium |
  |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Java](./leetcode-algorithm/src/main/java/cn/davidliu/leetcode/algorithms/stringToInteger/Solution.java)| Medium |
  |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](./leetcode-algorithm/src/main/java/cn/davidliu/leetcode/algorithms/palindromeNumber/Solution.java)| Easy |
+ |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](./leetcode-algorithm/src/main/java/cn/davidliu/leetcode/algorithms/generateParentheses/Solution.java)| Medium |
  |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](./leetcode-algorithm/src/main/java/cn/davidliu/leetcode/algorithms/singleNumber/Solution.java)| Easy |
  |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java](./leetcode-algorithm/src/main/java/cn/davidliu/leetcode/algorithms/reverseBits/Solution.java)| Easy |
  |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./leetcode-algorithm/src/main/java/cn/davidliu/leetcode/algorithms/numberOf1Bits/Solution.java)| Easy |

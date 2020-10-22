@@ -16,5 +16,10 @@ public class SolutionTest {
         Assert.assertEquals(-2147483648, solution.myAtoi("-91283472332"));
         Assert.assertEquals(0, solution.myAtoi(" "));
         Assert.assertEquals(1, solution.myAtoi("+1"));
+        Assert.assertEquals(Integer.MAX_VALUE, solution.myAtoi("1000000000000000000"));
+        Assert.assertEquals(Integer.MIN_VALUE, solution.myAtoi("-1000000000000000000"));
+        Assert.assertEquals(0, solution.myAtoi(null));
+        Assert.assertEquals(Integer.MAX_VALUE, solution.myAtoi("2147483648"));
+        Assert.assertEquals(2147483646, solution.myAtoi("2147483646"));
     }
 }

@@ -38,4 +38,12 @@ public class ListNode {
         result = 31 * result + (next != null ? next.hashCode() : 0);
         return result;
     }
+
+    @Override
+    public String toString() {
+        return "ListNode{" +
+                "val=" + val +
+                ", next=" + next +
+                '}';
+    }
 }

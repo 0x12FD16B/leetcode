@@ -2,11 +2,10 @@ package cn.davidliu.leetcode.algorithms.maximumSwap;
 
 /**
  * Maximum Swap
- *
+ * <p>
  * problem source: https://leetcode.com/problems/maximum-swap/description/
  *
  * @author david-liu
- * @date May 31, 2018
  */
 public class Solution {
 
@@ -25,7 +24,7 @@ public class Solution {
                     char tmp = digits[i];
                     digits[i] = digits[buckets[k]];
                     digits[buckets[k]] = tmp;
-                    return Integer.valueOf(new String(digits));
+                    return Integer.parseInt(new String(digits));
                 }
             }
         }

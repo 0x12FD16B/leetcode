@@ -14,6 +14,7 @@ This Repository is created for logging a trip in [LeetCode](https://leetcode.com
  |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/stringToInteger/Solution.java)| Medium |
  |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/palindromeNumber/Solution.java)| Easy |
  |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/containerWithMostWater/Solution.java)| Medium |
+ |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/longestCommonPrefix/Solution.java)| Easy |
  |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/generateParentheses/Solution.java)| Medium |
  |58|[Length Of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/lengthOfLastWord/Solution.java)| Easy |
  |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/plusOne/Solution.java)| Easy |

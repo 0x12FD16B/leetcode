@@ -16,6 +16,7 @@ This Repository is created for logging a trip in [LeetCode](https://leetcode.com
  |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/containerWithMostWater/Solution.java)| Medium |
  |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/generateParentheses/Solution.java)| Medium |
  |58|[Length Of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/lengthOfLastWord/Solution.java)| Easy |
+ |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/plusOne/Solution.java)| Easy |
  |83|[Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/removeDuplicatesFromSortedList/Solution.java)|Easy|
  |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/singleNumber/Solution.java)| Easy |
  |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/reverseBits/Solution.java)| Easy |
@@ -35,3 +36,4 @@ This Repository is created for logging a trip in [LeetCode](https://leetcode.com
  |824|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/goatLatin/Solution.java)|Medium|
  |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/flippingAnImage/Solution.java) | Easy |
  |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/shiftingLetters/Solution.java) | Medium |
+ |1115|[Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/printFoobarAlternately/FooBar.java) | Medium |

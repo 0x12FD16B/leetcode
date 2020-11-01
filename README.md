@@ -22,6 +22,7 @@ This Repository is created for logging a trip in [LeetCode](https://leetcode.com
  |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/plusOne/Solution.java)| Easy |
  |83|[Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/removeDuplicatesFromSortedList/Solution.java)|Easy|
  |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/reverseLinkedListII/Solution.java)|Medium|
+ |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/binaryTreeLevelOrderTraversal/Solution.java)|Medium|
  |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/binaryTreeLevelOrderTraversalII/Solution.java)|Easy|
  |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/singleNumber/Solution.java)| Easy |
  |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/reverseBits/Solution.java)| Easy |

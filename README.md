@@ -45,5 +45,6 @@ This Repository is created for logging a trip in [LeetCode](https://leetcode.com
  |824|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/goatLatin/Solution.java)|Medium|
  |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/flippingAnImage/Solution.java) | Easy |
  |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/shiftingLetters/Solution.java) | Medium |
+ |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/increasingOrderSearchTree/Solution.java) | Medium |
  |998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/maximumBinaryTreeII/Solution.java) | Medium |
  |1115|[Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/printFoobarAlternately/FooBar.java) | Medium |

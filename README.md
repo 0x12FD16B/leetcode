@@ -18,6 +18,7 @@ This Repository is created for logging a trip in [LeetCode](https://leetcode.com
  |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/generateParentheses/Solution.java)| Medium |
  |46|[Permutations](https://leetcode-cn.com/problems/permutations/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/permutations/Solution.java)| Medium |
  |46|[Permutations II](https://leetcode-cn.com/problems/permutations-ii/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/permutationsII/Solution.java)| Medium |
+ |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/spiralMatrix/Solution.java)| Medium |
  |58|[Length Of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/lengthOfLastWord/Solution.java)| Easy |
  |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/plusOne/Solution.java)| Easy |
  |83|[Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/removeDuplicatesFromSortedList/Solution.java)|Easy|

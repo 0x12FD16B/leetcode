@@ -1,17 +1,13 @@
 package cn.davidliu.leetcode.algorithms.palindromeNumber;
 
 /**
- * Palindrome Number
- * <p>
- * problem source: https://leetcode.com/submissions/detail/189043838/
+ * https://leetcode.com/problems/palindrome-number/
  *
  * @author david-liu
- * @date Nov 12, 2018
  */
 public class Solution {
     public boolean isPalindrome(int x) {
-        if (x < 0) return false;
-        if (x > 0 && x % 10 == 0) return false;
+        if (x < 0 || (x > 0 && x % 10 == 0)) return false;
         int[] n = new int[64];
         int count = 0;
         int t = x;
@@ -24,5 +20,15 @@ public class Solution {
             r += n[i] * (int) Math.pow(10, count - 1 - i);
         }
         return x == r;
+    }
+
+    public boolean isPalindrome_2(int x) {
+        if (x < 0 || (x > 0 && x % 10 == 0)) return false;
+        int res = 0, t = x;
+        while (t > 0) {
+            res = res * 10 + t % 10;
+            t = t / 10;
+        }
+        return x == res;
     }
 }

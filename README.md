@@ -16,6 +16,7 @@ This Repository is created for logging a trip in [LeetCode](https://leetcode.com
  |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/containerWithMostWater/Solution.java)| Medium |
  |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/longestCommonPrefix/Solution.java)| Easy |
  |15|[3 Sum](https://leetcode.com/problems/3sum/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/threeSum/Solution.java)| Medium |
+ |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/validParentheses/Solution.java)|Easy|
  |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/generateParentheses/Solution.java)| Medium |
  |46|[Permutations](https://leetcode-cn.com/problems/permutations/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/permutations/Solution.java)| Medium |
  |46|[Permutations II](https://leetcode-cn.com/problems/permutations-ii/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/permutationsII/Solution.java)| Medium |

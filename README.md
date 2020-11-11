@@ -44,6 +44,7 @@ This Repository is created for logging a trip in [LeetCode](https://leetcode.com
  |589|[N Ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/nAryTreePreorderTraversal/Solution.java)|Easy|
  |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/maximumSwap/Solution.java)| Medium |
  |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/binaryNumberWithAlternatingBits/Solution.java) | Easy |
+ |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/dailyTemperatures/Solution.java)|Medium|
  |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/toeplitzMatrix/Solution.java) | Easy |
  |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/subdomainVisitCount/Solution.java)| Easy |
  |817|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/linkedListComponents/Solution.java)| Easy |

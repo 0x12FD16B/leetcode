@@ -18,6 +18,7 @@ This Repository is created for logging a trip in [LeetCode](https://leetcode.com
  |15|[3 Sum](https://leetcode.com/problems/3sum/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/threeSum/Solution.java)| Medium |
  |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/validParentheses/Solution.java)|Easy|
  |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/generateParentheses/Solution.java)| Medium |
+ |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/trappingRainWater/Solution.java)|Hard|
  |46|[Permutations](https://leetcode-cn.com/problems/permutations/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/permutations/Solution.java)| Medium |
  |46|[Permutations II](https://leetcode-cn.com/problems/permutations-ii/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/permutationsII/Solution.java)| Medium |
  |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](./leetcode-algorithms/src/main/java/cn/davidliu/leetcode/algorithms/spiralMatrix/Solution.java)| Medium |
